@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Counter from "./Components/counter";
+import Counter from "./counter";
 import 'bootstrap/dist/css/bootstrap.css';
-import Counters from "./Components/counters";
+import Counters from "./counters";
 ReactDOM.render(
   
   <React.StrictMode>
