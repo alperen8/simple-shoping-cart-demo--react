@@ -1,5 +1,5 @@
-import Navbar from "./Components/navbar";
-import Counters from "./Components/counters";
+import Navbar from "./navbar";
+import Counters from "./counters";
 import './App.css';
 
 function App() {
